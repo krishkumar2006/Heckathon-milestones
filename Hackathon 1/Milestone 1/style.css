@@ -1,0 +1,92 @@
+#main
+ {
+    text-align: center;
+     
+}
+
+#maint {
+
+    text-align: center;
+    
+    font-size: x-large;}
+
+#box{
+
+border: 5px double rgb(0, 0, 0);
+height: 1000px;
+border-radius: 10px;
+background-color:whitesmoke ;
+width: 90%;
+margin: 5%;
+margin-top: 0%;
+;
+}
+label{
+    font-size: x-large;
+    padding-left: 1.5%;
+    
+}
+input{
+margin-top: 5px;
+    margin-left: 3%;
+width:90%;
+height: 25px;
+border-color: beige;
+border-radius: 5px;
+
+}
+
+#info{
+     text-align: center;
+     border: 3px dashed;
+font-size: x-large;
+}
+fieldset{
+margin-top: 3%;
+    border: 3px solid;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-bottom: 3%;
+}
+body{
+    background-color:bisque ;
+}
+
+
+
+textarea{
+    margin-top: 5px;
+    margin-left: 3%;
+width:90%;
+border-radius: 5px;
+}
+
+button{
+    text-align: center;
+    width: 90%;
+    margin-top: 5%;
+    height: 50px;
+    margin-left: 4%;
+    border-radius:5px ;
+    font-size: larger;
+}
+
+button:hover {
+    background-color: grey;
+}
+
+
+#resumeoutput{
+    max-width: 600px;
+    border-radius: 8px;
+    border: 2px double black;
+    margin: auto;
+    padding: 20px;
+    background-color: aliceblue;
+}
+
+#resumeoutput h1{
+
+    color: black
+}
+
